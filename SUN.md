@@ -1,5 +1,5 @@
-# Self Using Paper-rewiew
-Some useful paper. Just use Ctrl+F and input key words to search what you what.
+# Self Using Note
+Some Seful Niubi tricks, techniques and paper. Just use Ctrl+F and input key words to search what you what.
 
 ## Detection
 [Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
