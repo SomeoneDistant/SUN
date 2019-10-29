@@ -5,12 +5,15 @@ Some useful paper.
 Uncertainty bounding box
 (https://arxiv.org/abs/1809.08545)
 
-## Image generator
+## Image Synthesis
 Few shot unsupervised image2image
 (https://arxiv.org/abs/1905.01723)
 
 Pix2PixHD: Segmentation to image
 (https://arxiv.org/abs/1711.11585)
+
+Semantic Image Synthesis with Spatially-Adaptive Normalization(SPADE): Used in GauGAN, segmentation to image
+(https://arxiv.org/abs/1903.07291)
 
 Face Swapping GAN: Subject agnostic face swapping and reenactiment model
 (https://arxiv.org/abs/1908.05932)
