@@ -15,6 +15,8 @@
 
 [SinGAN](https://arxiv.org/abs/1905.01164): Using multiscale patch generator to learn the distribution of target nature image.(ICCV19 Best Paper)
 
+[AdaIN](https://arxiv.org/abs/1703.06868): Adaptive instance normalization using in style transfer.
+
 ## Structure
 [High Resolution Net(HRNet)](https://arxiv.org/abs/1904.04514): UNet with convolution in skip connection.
 
