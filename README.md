@@ -26,3 +26,10 @@ Some Seful Niubi tricks, techniques and paper. Just use Ctrl+F and input key wor
 [Thin Plate Spline Interpolation](https://en.wikipedia.org/wiki/Thin_plate_spline)
 
 [DF2Net](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf): deep learning approach single image 3DMM generator.
+
+## Loss Function
+Give wrong labeled pixel penalty:
+lossfunction(out,gt,reduction=None)*|Sig(out)-gt|
+
+Hinge loss:
+loss=max(0,1-gt*out)
