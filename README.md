@@ -5,7 +5,7 @@ Some useful paper.
 Uncertainty bounding box
 (https://arxiv.org/abs/1809.08545)
 
-## Style transfer
+## Style transfer / Image generator
 Few shot unsupervised image2image
 (https://arxiv.org/abs/1905.01723)
 
@@ -15,6 +15,10 @@ Pix2PixHD
 Face Swapping GAN
 (https://arxiv.org/abs/1908.05932)
 
+SinGan
+(https://arxiv.org/pdf/1905.01164.pdf)
+
 ## Structure
 HRNet
 (https://arxiv.org/abs/1904.04514)
+
