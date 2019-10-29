@@ -1,5 +1,5 @@
 # Self Using Paper-rewiew
-Some useful paper.
+Some useful paper. Just use Ctrl+F to search key words for what you what.
 
 ## Detection
 Uncertainty bounding box
