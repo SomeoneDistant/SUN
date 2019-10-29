@@ -2,36 +2,27 @@
 Some useful paper. Just use Ctrl+F and input key words to search what you what.
 
 ## Detection
-Uncertainty bounding box
-(https://arxiv.org/abs/1809.08545)
+[Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
 
 ## Image Synthesis
-Few shot unsupervised image2image
-(https://arxiv.org/abs/1905.01723)
+[Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723)
 
-Pix2PixHD: Segmentation to image
-(https://arxiv.org/abs/1711.11585)
+[Pix2PixHD: Segmentation to image](https://arxiv.org/abs/1711.11585)
 
-Semantic Image Synthesis with Spatially-Adaptive Normalization(SPADE): Used in GauGAN, segmentation to image
-(https://arxiv.org/abs/1903.07291)
+[Semantic Image Synthesis with Spatially-Adaptive Normalization(SPADE)](https://arxiv.org/abs/1903.07291): Used in GauGAN, segmentation to image.
 
-Face Swapping GAN: Subject agnostic face swapping and reenactiment model
-(https://arxiv.org/abs/1908.05932)
+[Face Swapping GAN(FSGAN)](https://arxiv.org/abs/1908.05932): Subject agnostic face swapping and reenactiment model.
 
-SinGan(ICCV19 Best Paper): Using multiscale patch generator to learn the distribution of target nature image
-(https://arxiv.org/abs/1905.01164)
+[SinGAN](https://arxiv.org/abs/1905.01164): Using multiscale patch generator to learn the distribution of target nature image.(ICCV19 Best Paper)
 
 ## Structure
-HRNet: UNet with convolution in skip connection
-(https://arxiv.org/abs/1904.04514)
+[High Resolution Net(HRNet)](https://arxiv.org/abs/1904.04514): UNet with convolution in skip connection.
+
+[DANet](https://arxiv.org/abs/1809.02983): Dual self attention module, great example of [pytorch sync-batch-norm and attention module](https://github.com/junfu1115/DANet).
 
 ## 3D
-Active Appearance Model
-(https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
+[Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
 
-Thin Plate Spline Interpolation
-(https://en.wikipedia.org/wiki/Thin_plate_spline)
+[Thin Plate Spline Interpolation](https://en.wikipedia.org/wiki/Thin_plate_spline)
 
-DF2Net: deep learning approach single image 3DMM generator
-(http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf)
-
+[DF2Net](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf): deep learning approach single image 3DMM generator.
