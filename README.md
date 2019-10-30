@@ -1,5 +1,5 @@
 # Self Using Note
-**Some Useful Niubi** tricks, repositories and paper. Just use Ctrl+F and input key words to search what you what. Strikethrough means I have not gone through it.
+**Some Useful Niubi** tricks, repositories and paper. Just use Ctrl+F and input key words to search what you what. ~~Strikethrough~~ means I have not gone through it.
 
 ## General Structure
 [High Resolution Net(HRNet)](https://arxiv.org/abs/1904.04514): UNet with convolution in skip connection.
