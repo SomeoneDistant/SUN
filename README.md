@@ -1,5 +1,5 @@
 # Self Using Note
-**Some Seful Niubi** tricks, techniques and paper. Just use Ctrl+F and input key words to search what you what. Blockquote means have not gone through.
+**Some Seful Niubi** tricks, techniques and paper. Just use Ctrl+F and input key words to search what you what. Strikethrough means I have not gone through this paper.
 
 ## Structure
 [High Resolution Net(HRNet)](https://arxiv.org/abs/1904.04514): UNet with convolution in skip connection.
@@ -10,7 +10,7 @@
 [Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
 
 ## Face Recognition
-> [Deep Comparator Network](https://arxiv.org/abs/1807.11440)
+~~[Deep Comparator Network](https://arxiv.org/abs/1807.11440)~~
 
 ## Image Synthesis
 [Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723)
@@ -25,7 +25,7 @@
 
 [AdaIN](https://arxiv.org/abs/1703.06868): Adaptive instance normalization using in style transfer.
 
-> [Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)
+~~[Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)~~
 
 ## 3D
 [Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
