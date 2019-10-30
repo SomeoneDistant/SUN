@@ -1,8 +1,16 @@
 # Self Using Note
-**Some Seful Niubi** tricks, techniques and paper. Just use Ctrl+F and input key words to search what you what.
+**Some Seful Niubi** tricks, techniques and paper. Just use Ctrl+F and input key words to search what you what. Blockquote means have not gone through.
+
+## Structure
+[High Resolution Net(HRNet)](https://arxiv.org/abs/1904.04514): UNet with convolution in skip connection.
+
+[DANet](https://arxiv.org/abs/1809.02983): Dual self attention module, great example of [pytorch sync-batch-norm and attention module](https://github.com/junfu1115/DANet).
 
 ## Detection
 [Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
+
+## Face Recognition
+> [Deep Comparator Network](https://arxiv.org/abs/1807.11440)
 
 ## Image Synthesis
 [Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723)
@@ -17,10 +25,7 @@
 
 [AdaIN](https://arxiv.org/abs/1703.06868): Adaptive instance normalization using in style transfer.
 
-## Structure
-[High Resolution Net(HRNet)](https://arxiv.org/abs/1904.04514): UNet with convolution in skip connection.
-
-[DANet](https://arxiv.org/abs/1809.02983): Dual self attention module, great example of [pytorch sync-batch-norm and attention module](https://github.com/junfu1115/DANet).
+> [Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)
 
 ## 3D
 [Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
