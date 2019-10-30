@@ -1,7 +1,7 @@
 # Self Using Note
-**Some Seful Niubi** tricks, techniques and paper. Just use Ctrl+F and input key words to search what you what. Strikethrough means I have not gone through this paper.
+**Some Useful Niubi** tricks, repositories and paper. Just use Ctrl+F and input key words to search what you what. Strikethrough means I have not gone through it.
 
-## Structure
+## General Structure
 [High Resolution Net(HRNet)](https://arxiv.org/abs/1904.04514): UNet with convolution in skip connection.
 
 [DANet](https://arxiv.org/abs/1809.02983): Dual self attention module, great example of [pytorch sync-batch-norm and attention module](https://github.com/junfu1115/DANet).
@@ -13,9 +13,9 @@
 ~~[Deep Comparator Network](https://arxiv.org/abs/1807.11440)~~
 
 ## Image Synthesis
-[Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723)
+[Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723): Content module,
 
-[Pix2PixHD: Segmentation to image](https://arxiv.org/abs/1711.11585)
+[Pix2PixHD: Segmentation to image](https://arxiv.org/abs/1711.11585): Enhancer structure.
 
 [Semantic Image Synthesis with Spatially-Adaptive Normalization(SPADE)](https://arxiv.org/abs/1903.07291): Used in GauGAN, segmentation to image.
 
@@ -26,6 +26,10 @@
 [AdaIN](https://arxiv.org/abs/1703.06868): Adaptive instance normalization using in style transfer.
 
 ~~[Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)~~
+
+[Face swapping GAN](https://github.com/shaoanlu/faceswap-GAN): Introducing self attention, Kalman Filter.
+
+[Few-shot face swapping GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN): Introducing AdaIN, SPADE.
 
 ## 3D
 [Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
