@@ -39,7 +39,7 @@
 [DF2Net](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf): deep learning approach single image 3DMM generator.
 
 ## Low Level Vision
-[Deep Image Prior](https://arxiv.org/abs/1711.10925)
+~~[Deep Image Prior](https://arxiv.org/abs/1711.10925): VGG will have better result using in perceptual loss compared with ResNet.~~
 
 ## Loss Function
 Give wrong labeled pixel penalty:
