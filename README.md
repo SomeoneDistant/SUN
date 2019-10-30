@@ -44,3 +44,6 @@ lossfunction(out,gt,reduction=None)*|Sig(out)-gt|
 
 Hinge loss:
 loss=max(0,1-gt*out)
+
+## Explainability and Interpretability
+~~[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/pdf/1806.00069.pdf)~~
