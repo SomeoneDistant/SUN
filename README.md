@@ -6,6 +6,8 @@
 
 [DANet](https://arxiv.org/abs/1809.02983): Dual self attention module, great example of [pytorch sync-batch-norm and attention module](https://github.com/junfu1115/DANet).
 
+~~[Independent Components Layer](https://arxiv.org/abs/1905.05928v1): Combination of batch normalization and dropout layer.~~
+
 ## Detection
 [Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
 
@@ -36,12 +38,14 @@
 
 [Thin Plate Spline Interpolation](https://en.wikipedia.org/wiki/Thin_plate_spline)
 
-[DF2Net](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf): deep learning approach single image 3DMM generator.
+[DF2Net](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf): Deep learning approach single image 3DMM generator.
 
 ## Low Level Vision
 ~~[Deep Image Prior](https://arxiv.org/abs/1711.10925): VGG will have better result using in perceptual loss compared with ResNet.~~
 
 ## Loss Function
+~~[Triple consistency loss for pairing distributions in GAN-based face synthesis](https://arxiv.org/abs/1811.03492): Combination of long path loss and short cut loss.~~
+
 Give wrong labeled pixel penalty:
 lossfunction(out,gt,reduction=None)*|Sig(out)-gt|
 
