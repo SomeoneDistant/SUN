@@ -28,14 +28,16 @@
 ~~[Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)~~
 
 ### Face swapping: from beginner to give-up
-
 [Face Swapping GAN(FSGAN)](https://arxiv.org/abs/1908.05932): Subject agnostic face swapping and reenactiment model.
-
 [Face swapping GAN](https://github.com/shaoanlu/faceswap-GAN): Introducing self attention, Kalman Filter.
-
 [Few-shot face swapping GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN): Introducing AdaIN, SPADE.
+[Deep face lab](https://github.com/iperov/DeepFaceLab): ~~deep cyka blyat learning!~~ Deep fake tools.
 
-[Deep face lab](https://github.com/iperov/DeepFaceLab): ~~Deep cyka blyat learning~~ Deep fake tools.
+### 3D morphable model: from beginner to rookie
+[Deep 3D face reconstruction](https://arxiv.org/abs/1903.08527): Code available [here](https://github.com/microsoft/Deep3DFaceReconstruction)
+[3D face alignment](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm): 3dmm data and code.
+[Python 3dmm tools](https://github.com/YadiraF/face3d)
+[Another deep 3D face reconstruction](https://arxiv.org/abs/1903.10873): Code available [here](https://github.com/apchenstu/Facial_Details_Synthesis)
 
 ## 3D
 [Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
