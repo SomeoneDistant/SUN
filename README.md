@@ -21,13 +21,15 @@
 
 [Semantic Image Synthesis with Spatially-Adaptive Normalization(SPADE)](https://arxiv.org/abs/1903.07291): Used in GauGAN, segmentation to image.
 
-[Face Swapping GAN(FSGAN)](https://arxiv.org/abs/1908.05932): Subject agnostic face swapping and reenactiment model.
-
 [SinGAN](https://arxiv.org/abs/1905.01164): Using multiscale patch generator to learn the distribution of target nature image.(ICCV19 Best Paper)
 
 [AdaIN](https://arxiv.org/abs/1703.06868): Adaptive instance normalization using in style transfer.
 
 ~~[Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)~~
+
+### <Face swapping: from beginner to give-up>
+
+[Face Swapping GAN(FSGAN)](https://arxiv.org/abs/1908.05932): Subject agnostic face swapping and reenactiment model.
 
 [Face swapping GAN](https://github.com/shaoanlu/faceswap-GAN): Introducing self attention, Kalman Filter.
 
