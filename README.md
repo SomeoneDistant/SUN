@@ -15,7 +15,7 @@
 ~~[Deep Comparator Network](https://arxiv.org/abs/1807.11440)~~
 
 ## Image Synthesis
-[Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723): Content module,
+[Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723): Content module and style module.
 
 [Pix2PixHD: Segmentation to image](https://arxiv.org/abs/1711.11585): Enhancer structure.
 
@@ -27,13 +27,15 @@
 
 ~~[Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)~~
 
-### <Face swapping: from beginner to give-up>
+### Face swapping: from beginner to give-up
 
 [Face Swapping GAN(FSGAN)](https://arxiv.org/abs/1908.05932): Subject agnostic face swapping and reenactiment model.
 
 [Face swapping GAN](https://github.com/shaoanlu/faceswap-GAN): Introducing self attention, Kalman Filter.
 
 [Few-shot face swapping GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN): Introducing AdaIN, SPADE.
+
+[Deep face lab](https://github.com/iperov/DeepFaceLab): ~~Deep cyka blyat learning~~ Deep fake tools.
 
 ## 3D
 [Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
