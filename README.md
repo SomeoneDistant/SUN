@@ -13,6 +13,7 @@
 
 ## Face Recognition
 ~~[Deep Comparator Network](https://arxiv.org/abs/1807.11440)~~
+~~[SBR landmark detector](https://arxiv.org/abs/1807.00966): An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors. [Github](https://github.com/D-X-Y/landmark-detection)~~
 
 ## Image Synthesis
 [Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723): Content module and style module.
