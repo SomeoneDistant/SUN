@@ -44,6 +44,14 @@
 [Thin Plate Spline Interpolation](https://en.wikipedia.org/wiki/Thin_plate_spline)
 
 ### 3D morphable model: from beginner to rookie
+[Basel Model 09](https://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf): Standard face 3DMM.
+
+[Basel Model 17](https://arxiv.org/abs/1709.08398): Standard face 3DMM. Optimize facial expression.
+
+[Gaussian morphable model](https://arxiv.org/pdf/1603.07254v1.pdf): Introduction of Gaussian 3DMM.
+
+~~[Markov Chain Monte Carlo for Automated Face Image Analysis](https://link.springer.com/article/10.1007%2Fs11263-016-0967-5)~~
+
 [DF2Net](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DF2Net_A_Dense-Fine-Finer_Network_for_Detailed_3D_Face_Reconstruction_ICCV_2019_paper.pdf): Deep learning approach single image 3DMM generator.
 
 [Deep 3D face reconstruction](https://arxiv.org/abs/1903.08527): Code available [here](https://github.com/microsoft/Deep3DFaceReconstruction)
