@@ -66,7 +66,7 @@
 ~~[Deep Image Prior](https://arxiv.org/abs/1711.10925): VGG will have better result using in perceptual loss compared with ResNet.~~
 
 ## Loss Function
-~~[Triple consistency loss for pairing distributions in GAN-based face synthesis](https://arxiv.org/abs/1811.03492): Combination of long path loss and short cut loss.~~
+[Triple consistency loss for pairing distributions in GAN-based face synthesis](https://arxiv.org/abs/1811.03492): Combination of long path loss and short cut loss.
 
 Give wrong labeled pixel penalty:
 lossfunction(out,gt,reduction=None)*|Sig(out)-gt|
