@@ -12,7 +12,7 @@
 
 ~~[Independent Components Layer](https://arxiv.org/abs/1905.05928v1): Combination of batch normalization and dropout layer.~~
 
-~~[Adaptive Batch Normalization](https://arxiv.org/abs/1603.04779): Related paper [AdaIN](#Image Synthesis)
+~~[Adaptive Batch Normalization](https://arxiv.org/abs/1603.04779): Related paper [AdaIN](## Image Synthesis)~~
 
 ## Detection
 [Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
