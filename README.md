@@ -12,6 +12,8 @@
 
 ~~[Independent Components Layer](https://arxiv.org/abs/1905.05928v1): Combination of batch normalization and dropout layer.~~
 
+~~[Adaptive Batch Normalization](https://arxiv.org/abs/1603.04779): Related paper [AdaIN](#Image Synthesis)
+
 ## Detection
 [Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
 
@@ -29,7 +31,7 @@
 
 [SinGAN](https://arxiv.org/abs/1905.01164): Using multiscale patch generator to learn the distribution of target nature image.(ICCV19 Best Paper)
 
-[AdaIN](https://arxiv.org/abs/1703.06868): Adaptive instance normalization using in style transfer.
+[AdaIN](https://arxiv.org/abs/1703.06868): Adaptive instance normalization using in style transfer. Related paper [AdaBN](#General Structure)
 
 ~~[Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)~~
 
