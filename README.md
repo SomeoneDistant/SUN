@@ -10,6 +10,8 @@
 
 [DANet](https://arxiv.org/abs/1809.02983): Dual self attention module, great example of [pytorch sync-batch-norm and attention module](https://github.com/junfu1115/DANet).
 
+[XceptionNet](https://arxiv.org/abs/1610.02357): Reverse seperable convolution without activation.
+
 ~~[Independent Components Layer](https://arxiv.org/abs/1905.05928v1): Combination of batch normalization and dropout layer.~~
 
 ~~[Adaptive Batch Normalization](https://arxiv.org/abs/1603.04779): Related paper [AdaIN](https://arxiv.org/abs/1703.06868)~~
@@ -44,12 +46,25 @@
 
 [Deep face lab](https://github.com/iperov/DeepFaceLab): ~~deep cyka blyat learning!~~ Deep fake tools.
 
+#### Deepfake Detection
+[DFDC dataset](https://deepfakedetectionchallenge.ai/)
+
+[Celeb-DF dataset](https://arxiv.org/abs/1909.12962)
+
+[FaceForensics++ dataset](https://github.com/ondyari/FaceForensics/)
+
+[FaceForensics dataset](https://arxiv.org/abs/1803.09179)
+
+[A deepfake detection repository](https://github.com/dessa-public/DeepFake-Detection)
+
+[DSP-FWA](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf): The improved version is available [here](https://github.com/danmohaha/DSP-FWA)
+
 ## 3D
 [Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
 
 [Thin Plate Spline Interpolation](https://en.wikipedia.org/wiki/Thin_plate_spline)
 
-### 3D morphable model: from beginner to rookie
+### 3D morphable model: from beginner to give-up
 [Basel Model 09](https://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf): Standard face 3DMM.
 
 [Basel Model 17](https://arxiv.org/abs/1709.08398): Standard face 3DMM. Optimize facial expression.
