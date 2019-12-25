@@ -100,3 +100,9 @@ loss=max(0,1-gt*out)
 
 ## Explainability and Interpretability
 ~~[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069)~~
+
+## Not classified yet
+
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Yaojie_Liu_Face_De-spoofing_ECCV_2018_paper.pdf
+
+https://arxiv.org/pdf/1909.02967.pdf
