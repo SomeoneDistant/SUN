@@ -37,6 +37,10 @@
 
 ~~[Domain Intersection and Domain Difference](https://arxiv.org/abs/1908.11628)~~
 
+[styleGAN](https://arxiv.org/abs/1812.04948): Really impressive with interesting structure. Eight FCs as guidance. Repo is [here](https://github.com/NVlabs/stylegan).
+
+[styleGAN2](http://arxiv.org/abs/1912.04958): Handle with naughty artifacts in styleGAN. Repo is [here](https://github.com/NVlabs/stylegan2).
+
 ### Face swapping: from beginner to give-up
 [Face Swapping GAN(FSGAN)](https://arxiv.org/abs/1908.05932): Subject agnostic face swapping and reenactiment model.
 
