@@ -72,7 +72,7 @@
 [BOSS dataset for steganalysis](https://hal.archives-ouvertes.fr/hal-00648057/document)
 
 #### rPPG or related biology pattern (Warning: 玄学)
-[rPPG recommended by ZK.W](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Liu_Remote_Photoplethysmography_Correspondence_ECCV_2018_paper.pdf)
+[rPPG](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Liu_Remote_Photoplethysmography_Correspondence_ECCV_2018_paper.pdf):  Recommended by ZK.W
 
 [Another rPPG](https://ieeexplore.ieee.org/document/8575334/versions): Not really novel.
 
