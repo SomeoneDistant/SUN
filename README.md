@@ -46,7 +46,7 @@
 
 [Deep face lab](https://github.com/iperov/DeepFaceLab): ~~deep cyka blyat learning!~~ Deep fake tools.
 
-#### Deepfake Detection
+#### Deepfake Detection and related works
 [DFDC dataset](https://deepfakedetectionchallenge.ai/)
 
 [Celeb-DF dataset](https://arxiv.org/abs/1909.12962)
@@ -58,6 +58,25 @@
 [A deepfake detection repository](https://github.com/dessa-public/DeepFake-Detection)
 
 [DSP-FWA](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf): The improved version is available [here](https://github.com/danmohaha/DSP-FWA)
+
+#### Video general noise feature (PRNU) and steganalysis
+
+[Get rich feature from SRM filter](https://arxiv.org/pdf/1805.04953.pdf): Inspired by [Rich Models steganalysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.6997&rep=rep1&type=pdf) to detect photoshop modification.
+
+[Yedroudj-Net for steganalysis](https://arxiv.org/pdf/1803.00407.pdf)
+
+[Sensor pattern noise identification](https://www.researchgate.net/publication/3455253_Digital_Camera_Identification_From_Sensor_Pattern_Noise)
+
+[Color-Decoupled Photo Response Non-Uniformity](https://ieeexplore.ieee.org/document/5934587)
+
+[BOSS dataset for steganalysis](https://hal.archives-ouvertes.fr/hal-00648057/document)
+
+#### rPPG or related biology pattern (Warning: 玄学)
+[rPPG recommended by ZK.W](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Liu_Remote_Photoplethysmography_Correspondence_ECCV_2018_paper.pdf)
+
+[Another rPPG](https://ieeexplore.ieee.org/document/8575334/versions): Not really novel.
+
+[A repo of rPPG](https://prouast.github.io/heartbeat-js/)
 
 ## 3D
 [Active Appearance Model](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/cootes-eccv-98.pdf)
