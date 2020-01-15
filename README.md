@@ -6,7 +6,7 @@
 **Some Useful Niubi** tricks, repositories and paper. Just use Ctrl+F and input key words to search what you what. ~~Strikethrough~~ means I have not gone through yet.
 
 ## General Structure
-[Bilinear pooling](https://arxiv.org/pdf/1511.06062.pdf): Outer multiply two features. A sample code for bilinear pooling is [here] (https://github.com/yuminsuh/part_bilinear_reid/blob/21ea0906cb583312c382eb997b79913046c88a5b/reid/models/CompactBilinearPooling_dsybaik.py#L15) and [here](https://github.com/HaoMood/bilinear-cnn) and [here](https://github.com/Iceland-Leo/Bilinear-CNN/blob/master/bilinear_resnet.py).
+[Bilinear pooling](https://arxiv.org/pdf/1511.06062.pdf): Outer multiply two features. A sample code for bilinear pooling is [here](https://github.com/yuminsuh/part_bilinear_reid/blob/21ea0906cb583312c382eb997b79913046c88a5b/reid/models/CompactBilinearPooling_dsybaik.py#L15) and [here](https://github.com/HaoMood/bilinear-cnn) and [here](https://github.com/Iceland-Leo/Bilinear-CNN/blob/master/bilinear_resnet.py).
 
 ~~[Bilinear pooling in application](http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf)~~
 
