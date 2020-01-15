@@ -50,6 +50,8 @@
 
 [Deep face lab](https://github.com/iperov/DeepFaceLab): ~~deep cyka blyat learning!~~ Deep fake tools.
 
+[Expression transfer network](https://arxiv.org/pdf/1909.02967.pdf): Which is basically one of my original ideas and someone just realised it. Research is struggle.
+
 ### Deepfake Detection and related works
 [DFDC dataset](https://deepfakedetectionchallenge.ai/)
 
@@ -129,5 +131,3 @@ loss=max(0,1-gt*out)
 ## Not classified yet
 
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Yaojie_Liu_Face_De-spoofing_ECCV_2018_paper.pdf
-
-https://arxiv.org/pdf/1909.02967.pdf
