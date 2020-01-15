@@ -46,6 +46,8 @@
 
 [Face swapping GAN](https://github.com/shaoanlu/faceswap-GAN): Introducing self attention, Kalman Filter.
 
+[Few-shot Realistic Neural Talking Head Models](https://arxiv.org/pdf/1905.08233.pdf): Few-shot talking face sequences generator as one of the baselines of face swapping.
+
 [Few-shot face swapping GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN): Introducing AdaIN, SPADE.
 
 [Deep face lab](https://github.com/iperov/DeepFaceLab): ~~deep cyka blyat learning!~~ Deep fake tools.
