@@ -50,7 +50,7 @@
 
 [Deep face lab](https://github.com/iperov/DeepFaceLab): ~~deep cyka blyat learning!~~ Deep fake tools.
 
-#### Deepfake Detection and related works
+### Deepfake Detection and related works
 [DFDC dataset](https://deepfakedetectionchallenge.ai/)
 
 [Celeb-DF dataset](https://arxiv.org/abs/1909.12962)
@@ -61,9 +61,11 @@
 
 [A deepfake detection repository](https://github.com/dessa-public/DeepFake-Detection)
 
+[Face X-ray](https://arxiv.org/pdf/1912.13458.pdf): Detect forgery depending on blending patterns, SOTA approach of deepfake detection.
+
 [DSP-FWA](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf): The improved version is available [here](https://github.com/danmohaha/DSP-FWA)
 
-#### Video general noise feature (PRNU) and steganalysis
+### Video general noise feature (PRNU) and steganalysis
 
 [Get rich feature from SRM filter](https://arxiv.org/pdf/1805.04953.pdf): Inspired by [Rich Models steganalysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.6997&rep=rep1&type=pdf) to detect photoshop modification.
 
@@ -75,7 +77,7 @@
 
 [BOSS dataset for steganalysis](https://hal.archives-ouvertes.fr/hal-00648057/document)
 
-#### rPPG or related biology pattern (Warning: 玄学)
+### rPPG or related biology pattern (Warning: 玄学)
 [rPPG](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Liu_Remote_Photoplethysmography_Correspondence_ECCV_2018_paper.pdf):  Recommended by ZK.W
 
 [Another rPPG](https://ieeexplore.ieee.org/document/8575334/versions): Not really novel.
