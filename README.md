@@ -45,6 +45,8 @@
 
 [styleGAN2](http://arxiv.org/abs/1912.04958): Handle with naughty artifacts in styleGAN. Repo is [here](https://github.com/NVlabs/stylegan2).
 
+~~[Large scale GAN training for high fidelity image synthesis](https://arxiv.org/pdf/1809.11096.pdf)~~
+
 ### Face swapping: from beginner to give-up
 [Face Swapping GAN(FSGAN)](https://arxiv.org/abs/1908.05932): Subject agnostic face swapping and reenactiment model.
 
