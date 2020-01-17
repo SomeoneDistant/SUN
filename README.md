@@ -60,7 +60,9 @@
 
 [Expression transfer network](https://arxiv.org/pdf/1909.02967.pdf): Which is basically one of my original ideas and someone just realised it. Research is struggle.
 
-### Deepfake Detection and related works
+### Deepfake Detection and Anti-spoofing
+[Fusion for Multi-modal feature](https://arxiv.org/pdf/1912.02340.pdf): Includs an intersting video fusion approach and taking advantage of multi-modal feature.
+
 [DFDC dataset](https://deepfakedetectionchallenge.ai/)
 
 [Celeb-DF dataset](https://arxiv.org/abs/1909.12962)
