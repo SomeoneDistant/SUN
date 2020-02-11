@@ -66,6 +66,8 @@
 
 [Few-shot talking head generation](https://arxiv.org/abs/1905.08233): A not-so-impressive few-shot paper for talking head generation from samsung. And ***NEVER TRY THIS [REPO](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)*** which is totally rubbish!
 
+~~[Face shifter](https://arxiv.org/abs/1912.13457): Cope with occlusion problem in face swapping. Really beautiful demo. From MSRA.~~
+
 ### Deepfake Detection and Anti-spoofing
 [Fusion for Multi-modal feature](https://arxiv.org/pdf/1912.02340.pdf): Includs an intersting video fusion approach and taking advantage of multi-modal feature.
 
