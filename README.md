@@ -6,6 +6,8 @@
 **Some Useful Niubi** tricks, repositories and paper. Just use Ctrl+F and input key words to search what you what. ~~Strikethrough~~ means I have not gone through yet.
 
 ## General Structure
+[Attention is all you need](https://arxiv.org/abs/1706.03762): ***Masterpiece*** of transformer and attention. Everybody should read it.
+
 [Bilinear pooling](https://arxiv.org/pdf/1511.06062.pdf): Outer multiply two features. A sample code for bilinear pooling is [here](https://github.com/yuminsuh/part_bilinear_reid/blob/21ea0906cb583312c382eb997b79913046c88a5b/reid/models/CompactBilinearPooling_dsybaik.py#L15) and [here](https://github.com/HaoMood/bilinear-cnn) and [here](https://github.com/Iceland-Leo/Bilinear-CNN/blob/master/bilinear_resnet.py).
 
 ~~[Bilinear pooling in application](http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf)~~
@@ -60,6 +62,10 @@
 
 [Expression transfer network](https://arxiv.org/pdf/1909.02967.pdf): Which is basically one of my original ideas and someone just realised it. Research is struggle.
 
+~~[Everybody's talkin, 3D talking head generation](https://arxiv.org/abs/2001.05201): Very impressive paper for talking head generation from Sensetime, CASIA, NTU and NVIDIA. It combines with NLP and GAN to generate corresponding landmark from voice data.~~
+
+[Few-shot talking head generation](https://arxiv.org/abs/1905.08233): A not-so-impressive few-shot paper for talking head generation from samsung. And ***NEVER TRY THIS [REPO](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)*** which is totally rubbish!
+
 ### Deepfake Detection and Anti-spoofing
 [Fusion for Multi-modal feature](https://arxiv.org/pdf/1912.02340.pdf): Includs an intersting video fusion approach and taking advantage of multi-modal feature.
 
@@ -79,7 +85,7 @@
 
 ### Video general noise feature (PRNU) and steganalysis
 
-[Get rich feature from SRM filter](https://arxiv.org/pdf/1805.04953.pdf): Inspired by [Rich Models steganalysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.6997&rep=rep1&type=pdf) to detect photoshop modification.
+[Get rich feature from SRM filter](https://arxiv.org/abs/1805.04953): Inspired by [Rich Models steganalysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.6997&rep=rep1&type=pdf) to detect photoshop modification.
 
 [Yedroudj-Net for steganalysis](https://arxiv.org/pdf/1803.00407.pdf)
 
@@ -119,6 +125,9 @@
 [Python 3dmm tools](https://github.com/YadiraF/face3d)
 
 [Another deep 3D face reconstruction](https://arxiv.org/abs/1903.10873): Code available [here](https://github.com/apchenstu/Facial_Details_Synthesis)
+
+## Video Feature Extraction
+[Static and Dynamic Fusion for Multi-modal Cross-ethnicity Face Anti-spoofing](https://arxiv.org/abs/1912.02340): There is a video feature extraction method in _3.1.SD-Net for Single-model_. No idea whether it works or not.
 
 ## Video Generation
 ~~[MoCoGAN](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf): Video generation and enhancement~~
