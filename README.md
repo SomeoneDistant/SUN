@@ -8,6 +8,8 @@
 ## General Structure
 [Attention is all you need](https://arxiv.org/abs/1706.03762): ***Masterpiece*** of transformer and attention. Everybody should read it.
 
+[Non local network](https://arxiv.org/abs/1711.07971): Similar with transformer. Sequence processing block with attention. From RBG and Kaiming.
+
 [Bilinear pooling](https://arxiv.org/pdf/1511.06062.pdf): Outer multiply two features. A sample code for bilinear pooling is [here](https://github.com/yuminsuh/part_bilinear_reid/blob/21ea0906cb583312c382eb997b79913046c88a5b/reid/models/CompactBilinearPooling_dsybaik.py#L15) and [here](https://github.com/HaoMood/bilinear-cnn) and [here](https://github.com/Iceland-Leo/Bilinear-CNN/blob/master/bilinear_resnet.py).
 
 ~~[Bilinear pooling in application](http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf)~~
