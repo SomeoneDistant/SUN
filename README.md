@@ -32,6 +32,10 @@
 
 ~~[SBR landmark detector](https://arxiv.org/abs/1807.00966): An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors. [Github](https://github.com/D-X-Y/landmark-detection)~~
 
+~~[Towards Interpretable Face Recognition](https://arxiv.org/abs/1805.00611)~~
+
+~~[Occlusion Robust Face Recognition Based on Mask Learning with Pairwise Differential Siamese Network](https://arxiv.org/abs/1908.06290)~~
+
 ## Image Synthesis
 [Few shot unsupervised image2image](https://arxiv.org/abs/1905.01723): Content module and style module.
 
