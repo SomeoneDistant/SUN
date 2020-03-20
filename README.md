@@ -6,9 +6,11 @@
 **Some Useful Niubi** tricks, repositories and paper. Just use Ctrl+F and input key words to search what you what. ~~Strikethrough~~ means I have not gone through yet.
 
 ## General Structure
-[Attention is all you need](https://arxiv.org/abs/1706.03762): ***Masterpiece*** of transformer and attention. Everybody should read it.
+[Attention is all you need](https://arxiv.org/abs/1706.03762): Masterpiece of transformer and attention. Everybody should read it.
 
 [Non local network](https://arxiv.org/abs/1711.07971): Similar with transformer. Sequence processing block with attention. From RBG and Kaiming.
+
+[Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411): Non local mean and denoising residual block for preventing adversarial sample attack.
 
 [Bilinear pooling](https://arxiv.org/pdf/1511.06062.pdf): Outer multiply two features. A sample code for bilinear pooling is [here](https://github.com/yuminsuh/part_bilinear_reid/blob/21ea0906cb583312c382eb997b79913046c88a5b/reid/models/CompactBilinearPooling_dsybaik.py#L15) and [here](https://github.com/HaoMood/bilinear-cnn) and [here](https://github.com/Iceland-Leo/Bilinear-CNN/blob/master/bilinear_resnet.py).
 
@@ -74,7 +76,10 @@
 
 ~~[Face shifter](https://arxiv.org/abs/1912.13457): Cope with occlusion problem in face swapping. Really beautiful demo. From MSRA.~~
 
-### Deepfake Detection and Anti-spoofing
+### Face anti-spoofing and face forensics
+
+[Central Difference Convolutional Networks](https://arxiv.org/pdf/2003.04092.pdf): Introducing a new convolution structure by subtract central responce to improve feature robustness. And a new networks based on NAS and CDC. Need to check if this can be a universal structure.
+
 [Fusion for Multi-modal feature](https://arxiv.org/pdf/1912.02340.pdf): Includs an intersting video fusion approach and taking advantage of multi-modal feature.
 
 [DFDC dataset](https://deepfakedetectionchallenge.ai/)
