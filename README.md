@@ -26,6 +26,9 @@
 
 ~~[Adaptive Batch Normalization](https://arxiv.org/abs/1603.04779): Related paper [AdaIN](https://arxiv.org/abs/1703.06868)~~
 
+## Networks Architecture Searching
+[Auto deeplab](https://arxiv.org/abs/1901.02985)
+
 ## Detection
 [Uncertainty bounding box](https://arxiv.org/abs/1809.08545)
 
@@ -77,6 +80,10 @@
 ~~[Face shifter](https://arxiv.org/abs/1912.13457): Cope with occlusion problem in face swapping. Really beautiful demo. From MSRA.~~
 
 ### Face anti-spoofing and face forensics
+
+[Static and Dynamic Fusion for Multi-modal Cross-ethnicity Face Anti-spoofing](https://arxiv.org/abs/1912.02340): There is a video feature extraction method in _3.1.SD-Net for Single-model_. No idea whether it works or not.
+
+~~[Noise modeling in anti-spoofing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yaojie_Liu_Face_De-spoofing_ECCV_2018_paper.pdf)~~
 
 [Central Difference Convolutional Networks](https://arxiv.org/pdf/2003.04092.pdf): Introducing a new convolution structure by subtract central responce to improve feature robustness. And a new networks based on NAS and CDC. Need to check if this can be a universal structure.
 
@@ -139,9 +146,6 @@
 
 [Another deep 3D face reconstruction](https://arxiv.org/abs/1903.10873): Code available [here](https://github.com/apchenstu/Facial_Details_Synthesis)
 
-## Video Feature Extraction
-[Static and Dynamic Fusion for Multi-modal Cross-ethnicity Face Anti-spoofing](https://arxiv.org/abs/1912.02340): There is a video feature extraction method in _3.1.SD-Net for Single-model_. No idea whether it works or not.
-
 ## Video Generation
 ~~[MoCoGAN](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf): Video generation and enhancement~~
 
@@ -159,7 +163,3 @@ loss=max(0,1-gt*out)
 
 ## Explainability and Interpretability
 ~~[Explaining Explanations: An Overview of Interpretability of Machine Learning](https://arxiv.org/abs/1806.00069)~~
-
-## Not classified yet
-
-http://openaccess.thecvf.com/content_ECCV_2018/papers/Yaojie_Liu_Face_De-spoofing_ECCV_2018_paper.pdf
