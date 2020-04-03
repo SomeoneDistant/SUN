@@ -80,6 +80,7 @@
 ~~[Face shifter](https://arxiv.org/abs/1912.13457): Cope with occlusion problem in face swapping. Really beautiful demo. From MSRA.~~
 
 ### Face anti-spoofing and face forensics
+~~[Improving Face Anti-Spoofing by 3D Virtual Synthesis](https://arxiv.org/abs/1901.00488)~~
 
 [Static and Dynamic Fusion for Multi-modal Cross-ethnicity Face Anti-spoofing](https://arxiv.org/abs/1912.02340): There is a video feature extraction method in _3.1.SD-Net for Single-model_. No idea whether it works or not.
 
